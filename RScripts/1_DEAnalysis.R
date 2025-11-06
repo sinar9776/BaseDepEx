@@ -1,5 +1,5 @@
 ## ============================================================
-## 1_DEAnalysis.R — Modular DE  (gene/isoform)
+## 1_DEAnalysis.R — Modular Differential Expression  (gene/isoform)
 ## ============================================================
 
 suppressPackageStartupMessages({
